@@ -1,0 +1,6 @@
+/usr/CS201/CS201-F22-Template/Pass/AvailExpression/CMakeFiles/intrinsics_gen.dir
+/usr/CS201/CS201-F22-Template/Pass/AvailExpression/CMakeFiles/omp_gen.dir
+/usr/CS201/CS201-F22-Template/Pass/AvailExpression/CMakeFiles/acc_gen.dir
+/usr/CS201/CS201-F22-Template/Pass/AvailExpression/CMakeFiles/AvailExpression.dir
+/usr/CS201/CS201-F22-Template/Pass/AvailExpression/CMakeFiles/edit_cache.dir
+/usr/CS201/CS201-F22-Template/Pass/AvailExpression/CMakeFiles/rebuild_cache.dir
